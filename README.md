@@ -1,4 +1,4 @@
-# 🔍 Maltese Minecraft Server Finder,
+# 🔍 Maltese Minecraft Server Finder
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6+-green.svg)

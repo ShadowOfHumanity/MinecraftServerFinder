@@ -1,0 +1,5 @@
+python-nmap==0.7.1
+mcstatus==10.0.3
+ipaddress==1.0.23
+tqdm==4.66.1
+colorama==0.4.6

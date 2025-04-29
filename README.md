@@ -1,7 +1,8 @@
-# 🔍 Maltese Minecraft Server Finder
+# 🔍 Maltese Minecraft Server Finder,
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6+-green.svg)
+
 
 A powerful Python tool that discovers Minecraft servers in Maltese IP ranges through automated network scanning.
 
@@ -11,7 +12,7 @@ A powerful Python tool that discovers Minecraft servers in Maltese IP ranges thr
   <img src="https://img.shields.io/badge/Multi_Threaded-200+-orange" alt="Multi-threaded">
 </p>
 
-## ✨ Features
+## ✨ Features (following readMe.md was made by AI)
 
 - 🇲🇹 Targets Maltese IP ranges from multiple ISPs (Melita, GO, Epic, etc.)
 - 🚀 Multi-threaded scanning with up to 200 parallel connections
